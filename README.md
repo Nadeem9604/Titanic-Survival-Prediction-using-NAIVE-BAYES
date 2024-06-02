@@ -1,6 +1,6 @@
-Titanic-Survival-Prediction-using-NAIVE-BAYES
+# Titanic-Survival-Prediction-using-NAIVE-BAYES
 
-Importing basic libraries
+# Importing basic libraries
 import pandas as pd
 import numpy as np
 
